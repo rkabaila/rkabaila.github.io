@@ -1,15 +1,34 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "main.js": {
+    "path": "/resources/main.e2fc3c55098071c75e3e.js",
+    "name": "main.js",
+    "isInitial": true,
+    "isChunk": true,
+    "isAsset": false,
+    "isModuleAsset": false
+  },
+  "vendors~main.js": {
+    "path": "/resources/vendors~main.e2fc3c55098071c75e3e.js",
+    "name": "vendors~main.js",
+    "isInitial": true,
+    "isChunk": true,
+    "isAsset": false,
+    "isModuleAsset": false
+  },
+  "2.e2fc3c55098071c75e3e.css": {
+    "path": "/resources/2.e2fc3c55098071c75e3e.css",
+    "name": "2.e2fc3c55098071c75e3e.css",
+    "isInitial": false,
+    "isChunk": true,
+    "isAsset": false,
+    "isModuleAsset": false
+  },
+  "2.e2fc3c55098071c75e3e.js": {
+    "path": "/resources/2.e2fc3c55098071c75e3e.js",
+    "name": "2.e2fc3c55098071c75e3e.js",
+    "isInitial": false,
+    "isChunk": true,
+    "isAsset": false,
+    "isModuleAsset": false
+  }
 }
