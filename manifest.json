@@ -1,47 +1,7 @@
 {
-  "0.css": {
-    "path": "/resources/0.css",
-    "name": "0.css",
-    "isInitial": false,
-    "isChunk": true,
-    "isAsset": false,
-    "isModuleAsset": false
-  },
-  "0.js": {
-    "path": "/resources/0.js",
-    "name": "0.js",
-    "isInitial": false,
-    "isChunk": true,
-    "isAsset": false,
-    "isModuleAsset": false
-  },
-  "0.css.map": {
-    "path": "/resources/0.css.map",
-    "name": "0.css.map",
-    "isInitial": false,
-    "isChunk": true,
-    "isAsset": false,
-    "isModuleAsset": false
-  },
-  "0.js.map": {
-    "path": "/resources/0.js.map",
-    "name": "0.js.map",
-    "isInitial": false,
-    "isChunk": true,
-    "isAsset": false,
-    "isModuleAsset": false
-  },
   "main.js": {
     "path": "/resources/main.js",
     "name": "main.js",
-    "isInitial": true,
-    "isChunk": true,
-    "isAsset": false,
-    "isModuleAsset": false
-  },
-  "main.js.map": {
-    "path": "/resources/main.js.map",
-    "name": "main.js.map",
     "isInitial": true,
     "isChunk": true,
     "isAsset": false,
@@ -55,10 +15,18 @@
     "isAsset": false,
     "isModuleAsset": false
   },
-  "vendors~main.js.map": {
-    "path": "/resources/vendors~main.js.map",
-    "name": "vendors~main.js.map",
-    "isInitial": true,
+  "2.82bbff04408b770a8b7d.css": {
+    "path": "/resources/2.82bbff04408b770a8b7d.css",
+    "name": "2.82bbff04408b770a8b7d.css",
+    "isInitial": false,
+    "isChunk": true,
+    "isAsset": false,
+    "isModuleAsset": false
+  },
+  "2.js": {
+    "path": "/resources/2.js",
+    "name": "2.js",
+    "isInitial": false,
     "isChunk": true,
     "isAsset": false,
     "isModuleAsset": false
